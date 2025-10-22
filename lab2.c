@@ -169,7 +169,7 @@ void admin_mode()
         do {
             printf("\n--- Admin Menu ---\n");
             printf("1: Display ingredients and total sales\n");
-            printf("2: Replenish ingredients (randomly 1–20 units)\n");
+            printf("2: Replenish ingredients\n");
             printf("3: Change coffee price\n");
             printf("0: Exit Admin Mode\n");
             printf("Enter choice: ");
@@ -249,4 +249,5 @@ int main(void)
 
     return 0;
 }
+
 
