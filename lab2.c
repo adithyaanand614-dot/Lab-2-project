@@ -1,11 +1,3 @@
-// Coffee Vending Machine Program
-// Features:
-//  - User can purchase coffee
-//  - Admin can view/replenish ingredients and change prices
-//  - Random ingredient replenishment (1–20 units)
-//  - Menu-driven infinite loop
-//  - Automatic low-ingredient warnings after each purchase
-
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
@@ -257,3 +249,4 @@ int main(void)
 
     return 0;
 }
+
